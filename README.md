@@ -6,7 +6,7 @@ Danfeng Hong, Naoto Yokoya, Jocelyn Chanussot, Xiaoxiang Zhu
 The code in this toolbox implements the ["SULoRA: Subspace Unmixing with Low-Rank Attribute Embedding for Hyperspectral Data Analysis"](https://ieeexplore.ieee.org/document/8502105).
 More specifically, it is detailed as follow
 
-![alt text](./Workflow.png)
+![alt text](./framework_JSTSP.png)
 
 Citation
 ---------------------
