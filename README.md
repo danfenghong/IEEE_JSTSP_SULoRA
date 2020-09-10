@@ -13,6 +13,8 @@ Citation
 
 **Please kindly cite the papers if this code is useful and helpful for your research.**
 
+Danfeng Hong, Xiao Xiang Zhu. SULoRA: Subspace Unmixing with Low-Rank Attribute Embedding for Hyperspectral Data Analysis, IEEE Journal of Selected Topics in Signal Processing, 2018, 12(6): 1351-1363.
+
      @article{hong2018sulora,
       title     = {SULoRA: Subspace unmixing with low-rank attribute embedding for hyperspectral data analysis},
       author    = {D. Hong and X. Zhu},
